@@ -1,0 +1,14 @@
+{
+  "name": "latihan-api-cypress",
+  "version": "1.0.0",
+  "description": "api testing cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "puput",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.14.0"
+  }
+}
